@@ -495,7 +495,7 @@ $res = mysqli_fetch_assoc($res);
                         <script src="https://cdn.lordicon.com/xdjxvujz.js"></script>
                         <lord-icon src="https://cdn.lordicon.com/xulniijg.json" trigger="hover" colors="primary:#121331" style="width:32px;height:32px">
                         </lord-icon>
-                        IA Marks
+                        Class Test
                     </a>
                 </li>
                 <li>
@@ -698,7 +698,7 @@ $res = mysqli_fetch_assoc($res);
                             <i class="fas fa-align-left"></i>
                         </button>
                         <div class="d-none d-sm-none d-md-block">
-                            <h5 style="text-align: center;" class="">Alva's Institute Of Engineering & Technology</h5>
+                            <h5 style="text-align: center;" class="">Alva's Degree College</h5>
                         </div>
 
                         <div class="d-md-none d-sm-block">

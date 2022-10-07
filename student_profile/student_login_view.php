@@ -8,7 +8,7 @@ include("../template/student_sidebar.php");
 ?>
 <div>
 
-    <h4>IA1 Marks</h4>
+    <h4>Class Test1 Marks</h4>
     <table class="table table-responsive">
         <tbody>
             <tr>
@@ -53,7 +53,7 @@ include("../template/student_sidebar.php");
     </table>
 
 
-    <h4>IA2 Marks</h4>
+    <h4>Class Test2 Marks</h4>
     <table class="table table-responsive">
         <tbody>
             <tr>
@@ -95,7 +95,7 @@ include("../template/student_sidebar.php");
     </table>
 
 
-    <h4>IA3 Marks</h4>
+    <h4>Class Test3 Marks</h4>
     <table class="table table-responsive">
         <tbody>
             <tr>
