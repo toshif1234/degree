@@ -17,6 +17,8 @@ if($_SESSION["username"] == "admin" or $_SESSION["username"] == "shreekanthsuvar
 
     header("Location: dashboard/admin_dashboard.php");
 
+}elseif($_SESSION["username"] =="vivek_alva@alvas.org"){
+    header("Location: dashboard/fac_dashboard.php");
 }
 
 else if((preg_match($pattern, $_SESSION["username"]))){
