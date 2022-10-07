@@ -497,11 +497,11 @@
                         <i class="fas fa-align-left"></i>
                     </button>
                     <div class="d-none d-sm-none d-md-block">
-                        <h5 style="text-align: center;" class="">Alva's Institute Of Engineering & Technology</h5>
+                        <h5 style="text-align: center;" class="">Alva's Degree College</h5>
                     </div>
 
                     <div class="d-md-none d-sm-block">
-                        <h5 style="text-align: center;" class=" ">AIET</h5>
+                        <h5 style="text-align: center;" class=" ">Alva's</h5>
                     </div>
                     <div class="">
                         <div class="row">
