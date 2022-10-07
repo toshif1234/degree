@@ -63,26 +63,26 @@ for ($i = 0; $i < $num_sub; $i++) {
 
     <ul class="nav nav-tabs" style="justify-content: center !important;">
         <li class="nav-item">
-            <a class="nav-link custom-nav-link active" data-bs-toggle="tab" href="#IA1">IA 1</a>
+            <a class="nav-link custom-nav-link active" data-bs-toggle="tab" href="#IA1">Class Test 1</a>
         </li>
         <li class="nav-item">
-            <a class="nav-link custom-nav-link" data-bs-toggle="tab" href="#IA2">IA 2</a>
+            <a class="nav-link custom-nav-link" data-bs-toggle="tab" href="#IA2">Class Test 2</a>
         </li>
         <li class="nav-item">
-            <a class="nav-link custom-nav-link" data-bs-toggle="tab" href="#IA3">IA 3</a>
+            <a class="nav-link custom-nav-link" data-bs-toggle="tab" href="#IA3">Class Test 3</a>
         </li>
 
     </ul>
 
     <div id="myTabContent" class="tab-content">
         <div class="tab-pane fade show active" id="IA1">
-            <p>ia1</p>
+            <p>Class Test1</p>
         </div>
         <div class="tab-pane fade" id="IA2">
-            <p>ia2</p>
+            <p>Class Test2</p>
         </div>
         <div class="tab-pane fade" id="IA3">
-            <p>ia3</p>
+            <p>Class Test3</p>
         </div>
     </div>
 
