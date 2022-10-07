@@ -1,0 +1,638 @@
+[17-Jan-2022 15:53:51 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 154
+[17-Jan-2022 15:53:51 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 159
+[17-Jan-2022 15:53:51 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 163
+[17-Jan-2022 15:53:51 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 173
+[17-Jan-2022 15:53:51 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 185
+[17-Jan-2022 15:53:51 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 187
+[17-Jan-2022 15:53:51 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 201
+[17-Jan-2022 15:53:51 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 203
+[17-Jan-2022 15:53:51 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 205
+[17-Jan-2022 15:53:51 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 220
+[17-Jan-2022 15:53:51 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 222
+[17-Jan-2022 15:53:51 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 224
+[17-Jan-2022 15:53:51 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 226
+[17-Jan-2022 15:53:51 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 245
+[17-Jan-2022 15:53:51 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 247
+[17-Jan-2022 15:53:51 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 249
+[17-Jan-2022 15:53:51 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 251
+[17-Jan-2022 15:53:51 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 253
+[17-Jan-2022 15:53:51 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 269
+[17-Jan-2022 15:53:51 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 271
+[17-Jan-2022 15:53:51 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 273
+[17-Jan-2022 15:53:51 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 275
+[17-Jan-2022 15:53:51 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 277
+[17-Jan-2022 15:53:51 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/t674dz98g7zj/dev/Classes/PHPExcel/Shared/String.php on line 529
+[17-Jan-2022 15:53:51 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/t674dz98g7zj/dev/Classes/PHPExcel/Shared/String.php on line 530
+[17-Jan-2022 15:53:51 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/t674dz98g7zj/dev/Classes/PHPExcel/Shared/String.php on line 536
+[17-Jan-2022 15:53:51 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/t674dz98g7zj/dev/Classes/PHPExcel/Shared/String.php on line 536
+[17-Jan-2022 15:53:51 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/t674dz98g7zj/dev/Classes/PHPExcel/Shared/String.php on line 537
+[17-Jan-2022 15:53:51 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/t674dz98g7zj/dev/Classes/PHPExcel/Shared/String.php on line 537
+[17-Jan-2022 15:53:51 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/t674dz98g7zj/dev/Classes/PHPExcel/ReferenceHelper.php on line 892
+[17-Jan-2022 15:53:51 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/t674dz98g7zj/dev/Classes/PHPExcel/ReferenceHelper.php on line 892
+[17-Jan-2022 15:53:51 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/t674dz98g7zj/dev/Classes/PHPExcel/ReferenceHelper.php on line 894
+[17-Jan-2022 15:53:51 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/t674dz98g7zj/dev/Classes/PHPExcel/ReferenceHelper.php on line 894
+[17-Jan-2022 15:53:51 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/t674dz98g7zj/dev/Classes/PHPExcel/Calculation.php on line 2189
+[17-Jan-2022 15:53:51 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/t674dz98g7zj/dev/Classes/PHPExcel/Calculation.php on line 2189
+[17-Jan-2022 15:53:51 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/t674dz98g7zj/dev/Classes/PHPExcel/Calculation.php on line 2305
+[17-Jan-2022 15:53:51 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/t674dz98g7zj/dev/Classes/PHPExcel/Calculation.php on line 2305
+[17-Jan-2022 15:53:51 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/t674dz98g7zj/dev/Classes/PHPExcel/Calculation.php on line 2307
+[17-Jan-2022 15:53:51 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/t674dz98g7zj/dev/Classes/PHPExcel/Calculation.php on line 2381
+[17-Jan-2022 15:53:51 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/t674dz98g7zj/dev/Classes/PHPExcel/Calculation.php on line 2383
+[17-Jan-2022 15:53:51 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/t674dz98g7zj/dev/Classes/PHPExcel/Calculation.php on line 2393
+[17-Jan-2022 15:53:51 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/t674dz98g7zj/dev/Classes/PHPExcel/Calculation.php on line 2641
+[17-Jan-2022 15:53:51 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/t674dz98g7zj/dev/Classes/PHPExcel/Calculation.php on line 2770
+[17-Jan-2022 15:53:51 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/t674dz98g7zj/dev/Classes/PHPExcel/Calculation.php on line 2772
+[17-Jan-2022 15:53:51 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/t674dz98g7zj/dev/Classes/PHPExcel/Calculation.php on line 2773
+[17-Jan-2022 15:53:51 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/t674dz98g7zj/dev/Classes/PHPExcel/Calculation.php on line 3048
+[17-Jan-2022 15:53:51 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/t674dz98g7zj/dev/Classes/PHPExcel/Calculation.php on line 3048
+[17-Jan-2022 15:53:51 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/t674dz98g7zj/dev/Classes/PHPExcel/Calculation.php on line 3051
+[17-Jan-2022 15:53:51 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/t674dz98g7zj/dev/Classes/PHPExcel/Calculation.php on line 3052
+[17-Jan-2022 15:53:51 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/t674dz98g7zj/dev/Classes/PHPExcel/Calculation.php on line 3468
+[17-Jan-2022 15:53:51 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/t674dz98g7zj/dev/Classes/PHPExcel/Calculation.php on line 3468
+[17-Jan-2022 15:53:51 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/t674dz98g7zj/dev/Classes/PHPExcel/Calculation.php on line 3510
+[17-Jan-2022 15:53:51 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/t674dz98g7zj/dev/Classes/PHPExcel/Calculation.php on line 3514
+[17-Jan-2022 15:53:51 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/t674dz98g7zj/dev/Classes/PHPExcel/Calculation.php on line 3567
+[17-Jan-2022 15:53:51 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/t674dz98g7zj/dev/Classes/PHPExcel/Calculation.php on line 3568
+[17-Jan-2022 15:53:51 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/t674dz98g7zj/dev/Classes/PHPExcel/Worksheet/AutoFilter.php on line 733
+[17-Jan-2022 15:53:51 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/t674dz98g7zj/dev/Classes/PHPExcel/Worksheet/AutoFilter.php on line 733
+[17-Jan-2022 15:53:51 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/t674dz98g7zj/dev/Classes/PHPExcel/Reader/Excel2007.php on line 467
+[17-Jan-2022 15:53:51 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/t674dz98g7zj/dev/Classes/PHPExcel/Cell.php on line 804
+[17-Jan-2022 15:53:51 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/t674dz98g7zj/dev/Classes/PHPExcel/Cell.php on line 805
+[17-Jan-2022 15:53:51 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/t674dz98g7zj/dev/Classes/PHPExcel/Cell.php on line 808
+[17-Jan-2022 15:53:51 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/t674dz98g7zj/dev/Classes/PHPExcel/Cell.php on line 809
+[17-Jan-2022 15:53:51 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/t674dz98g7zj/dev/Classes/PHPExcel/Cell.php on line 809
+[17-Jan-2022 15:53:51 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/t674dz98g7zj/dev/Classes/PHPExcel/Cell.php on line 811
+[17-Jan-2022 15:53:51 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/t674dz98g7zj/dev/Classes/PHPExcel/Cell.php on line 812
+[17-Jan-2022 15:53:51 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/t674dz98g7zj/dev/Classes/PHPExcel/Cell.php on line 812
+[17-Jan-2022 15:53:51 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/t674dz98g7zj/dev/Classes/PHPExcel/Cell.php on line 812
+[17-Jan-2022 15:53:51 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/t674dz98g7zj/dev/Classes/PHPExcel/Cell.php on line 816
+[17-Jan-2022 15:53:51 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/t674dz98g7zj/dev/Classes/PHPExcel/Cell/DefaultValueBinder.php on line 98
+[17-Jan-2022 15:53:51 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/t674dz98g7zj/dev/Classes/PHPExcel/Cell/DefaultValueBinder.php on line 98
+[17-Jan-2022 15:53:51 UTC] PHP Warning:  A non-numeric value encountered in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 154
+[17-Jan-2022 15:53:51 UTC] PHP Fatal error:  Uncaught PHPExcel_Exception: Invalid cell coordinate 1 in /home/t674dz98g7zj/dev/Classes/PHPExcel/Cell.php:590
+Stack trace:
+#0 /home/t674dz98g7zj/dev/Classes/PHPExcel/Worksheet.php(1228): PHPExcel_Cell::coordinateFromString('1')
+#1 /home/t674dz98g7zj/dev/Classes/PHPExcel/Worksheet.php(1187): PHPExcel_Worksheet->_createNewCell('1')
+#2 /home/t674dz98g7zj/dev/assignment_download/excel.php(154): PHPExcel_Worksheet->getCell('1')
+#3 {main}
+  thrown in /home/t674dz98g7zj/dev/Classes/PHPExcel/Cell.php on line 590
+[17-Jan-2022 15:58:00 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 154
+[17-Jan-2022 15:58:00 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 159
+[17-Jan-2022 15:58:00 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 163
+[17-Jan-2022 15:58:00 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 173
+[17-Jan-2022 15:58:00 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 185
+[17-Jan-2022 15:58:00 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 187
+[17-Jan-2022 15:58:00 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 201
+[17-Jan-2022 15:58:00 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 203
+[17-Jan-2022 15:58:00 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 205
+[17-Jan-2022 15:58:00 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 220
+[17-Jan-2022 15:58:00 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 222
+[17-Jan-2022 15:58:00 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 224
+[17-Jan-2022 15:58:00 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 226
+[17-Jan-2022 15:58:00 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 245
+[17-Jan-2022 15:58:00 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 247
+[17-Jan-2022 15:58:00 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 249
+[17-Jan-2022 15:58:00 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 251
+[17-Jan-2022 15:58:00 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 253
+[17-Jan-2022 15:58:00 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 269
+[17-Jan-2022 15:58:00 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 271
+[17-Jan-2022 15:58:00 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 273
+[17-Jan-2022 15:58:00 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 275
+[17-Jan-2022 15:58:00 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 277
+[17-Jan-2022 15:58:00 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/t674dz98g7zj/dev/Classes/PHPExcel/Reader/Excel2007.php on line 467
+[17-Jan-2022 15:58:00 UTC] PHP Warning:  A non-numeric value encountered in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 154
+[17-Jan-2022 15:58:00 UTC] PHP Fatal error:  Uncaught PHPExcel_Exception: Invalid cell coordinate 1 in /home/t674dz98g7zj/dev/Classes/PHPExcel/Cell.php:590
+Stack trace:
+#0 /home/t674dz98g7zj/dev/Classes/PHPExcel/Worksheet.php(1228): PHPExcel_Cell::coordinateFromString('1')
+#1 /home/t674dz98g7zj/dev/Classes/PHPExcel/Worksheet.php(1187): PHPExcel_Worksheet->_createNewCell('1')
+#2 /home/t674dz98g7zj/dev/assignment_download/excel.php(154): PHPExcel_Worksheet->getCell('1')
+#3 {main}
+  thrown in /home/t674dz98g7zj/dev/Classes/PHPExcel/Cell.php on line 590
+[17-Jan-2022 15:59:09 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/t674dz98g7zj/dev/Classes/PHPExcel/Reader/Excel2007.php on line 467
+[17-Jan-2022 15:59:09 UTC] PHP Warning:  A non-numeric value encountered in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 154
+[17-Jan-2022 15:59:09 UTC] PHP Fatal error:  Uncaught PHPExcel_Exception: Invalid cell coordinate 1 in /home/t674dz98g7zj/dev/Classes/PHPExcel/Cell.php:590
+Stack trace:
+#0 /home/t674dz98g7zj/dev/Classes/PHPExcel/Worksheet.php(1228): PHPExcel_Cell::coordinateFromString('1')
+#1 /home/t674dz98g7zj/dev/Classes/PHPExcel/Worksheet.php(1187): PHPExcel_Worksheet->_createNewCell('1')
+#2 /home/t674dz98g7zj/dev/assignment_download/excel.php(154): PHPExcel_Worksheet->getCell('1')
+#3 {main}
+  thrown in /home/t674dz98g7zj/dev/Classes/PHPExcel/Cell.php on line 590
+[17-Jan-2022 15:59:43 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/t674dz98g7zj/dev/Classes/PHPExcel/Reader/Excel2007.php on line 467
+[17-Jan-2022 15:59:43 UTC] PHP Warning:  A non-numeric value encountered in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 154
+[17-Jan-2022 15:59:43 UTC] PHP Fatal error:  Uncaught PHPExcel_Exception: Invalid cell coordinate 1 in /home/t674dz98g7zj/dev/Classes/PHPExcel/Cell.php:590
+Stack trace:
+#0 /home/t674dz98g7zj/dev/Classes/PHPExcel/Worksheet.php(1228): PHPExcel_Cell::coordinateFromString('1')
+#1 /home/t674dz98g7zj/dev/Classes/PHPExcel/Worksheet.php(1187): PHPExcel_Worksheet->_createNewCell('1')
+#2 /home/t674dz98g7zj/dev/assignment_download/excel.php(154): PHPExcel_Worksheet->getCell('1')
+#3 {main}
+  thrown in /home/t674dz98g7zj/dev/Classes/PHPExcel/Cell.php on line 590
+[17-Jan-2022 16:00:47 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/t674dz98g7zj/dev/Classes/PHPExcel/Reader/Excel2007.php on line 467
+[17-Jan-2022 16:00:47 UTC] PHP Warning:  A non-numeric value encountered in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 154
+[17-Jan-2022 16:00:47 UTC] PHP Fatal error:  Uncaught PHPExcel_Exception: Invalid cell coordinate 1 in /home/t674dz98g7zj/dev/Classes/PHPExcel/Cell.php:590
+Stack trace:
+#0 /home/t674dz98g7zj/dev/Classes/PHPExcel/Worksheet.php(1228): PHPExcel_Cell::coordinateFromString('1')
+#1 /home/t674dz98g7zj/dev/Classes/PHPExcel/Worksheet.php(1187): PHPExcel_Worksheet->_createNewCell('1')
+#2 /home/t674dz98g7zj/dev/assignment_download/excel.php(154): PHPExcel_Worksheet->getCell('1')
+#3 {main}
+  thrown in /home/t674dz98g7zj/dev/Classes/PHPExcel/Cell.php on line 590
+[17-Jan-2022 16:00:55 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/t674dz98g7zj/dev/Classes/PHPExcel/Reader/Excel2007.php on line 467
+[17-Jan-2022 16:00:55 UTC] PHP Warning:  A non-numeric value encountered in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 154
+[17-Jan-2022 16:00:55 UTC] PHP Fatal error:  Uncaught PHPExcel_Exception: Invalid cell coordinate 1 in /home/t674dz98g7zj/dev/Classes/PHPExcel/Cell.php:590
+Stack trace:
+#0 /home/t674dz98g7zj/dev/Classes/PHPExcel/Worksheet.php(1228): PHPExcel_Cell::coordinateFromString('1')
+#1 /home/t674dz98g7zj/dev/Classes/PHPExcel/Worksheet.php(1187): PHPExcel_Worksheet->_createNewCell('1')
+#2 /home/t674dz98g7zj/dev/assignment_download/excel.php(154): PHPExcel_Worksheet->getCell('1')
+#3 {main}
+  thrown in /home/t674dz98g7zj/dev/Classes/PHPExcel/Cell.php on line 590
+[17-Jan-2022 16:05:11 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/t674dz98g7zj/dev/Classes/PHPExcel/Reader/Excel2007.php on line 467
+[17-Jan-2022 16:05:11 UTC] PHP Warning:  A non-numeric value encountered in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 154
+[17-Jan-2022 16:05:11 UTC] PHP Fatal error:  Uncaught PHPExcel_Exception: Invalid cell coordinate 1 in /home/t674dz98g7zj/dev/Classes/PHPExcel/Cell.php:590
+Stack trace:
+#0 /home/t674dz98g7zj/dev/Classes/PHPExcel/Worksheet.php(1228): PHPExcel_Cell::coordinateFromString('1')
+#1 /home/t674dz98g7zj/dev/Classes/PHPExcel/Worksheet.php(1187): PHPExcel_Worksheet->_createNewCell('1')
+#2 /home/t674dz98g7zj/dev/assignment_download/excel.php(154): PHPExcel_Worksheet->getCell('1')
+#3 {main}
+  thrown in /home/t674dz98g7zj/dev/Classes/PHPExcel/Cell.php on line 590
+[17-Jan-2022 16:09:38 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 154
+[17-Jan-2022 16:09:38 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 159
+[17-Jan-2022 16:09:38 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 163
+[17-Jan-2022 16:09:38 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 173
+[17-Jan-2022 16:09:38 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 185
+[17-Jan-2022 16:09:38 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 187
+[17-Jan-2022 16:09:38 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 201
+[17-Jan-2022 16:09:38 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 203
+[17-Jan-2022 16:09:38 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 205
+[17-Jan-2022 16:09:38 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 220
+[17-Jan-2022 16:09:38 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 222
+[17-Jan-2022 16:09:38 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 224
+[17-Jan-2022 16:09:38 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 226
+[17-Jan-2022 16:09:38 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 245
+[17-Jan-2022 16:09:38 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 247
+[17-Jan-2022 16:09:38 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 249
+[17-Jan-2022 16:09:38 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 251
+[17-Jan-2022 16:09:38 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 253
+[17-Jan-2022 16:09:38 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 269
+[17-Jan-2022 16:09:38 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 271
+[17-Jan-2022 16:09:38 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 273
+[17-Jan-2022 16:09:38 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 275
+[17-Jan-2022 16:09:38 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 277
+[17-Jan-2022 16:09:38 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/t674dz98g7zj/dev/Classes/PHPExcel/Reader/Excel2007.php on line 467
+[17-Jan-2022 16:09:38 UTC] PHP Warning:  A non-numeric value encountered in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 154
+[17-Jan-2022 16:09:38 UTC] PHP Fatal error:  Uncaught PHPExcel_Exception: Invalid cell coordinate 1 in /home/t674dz98g7zj/dev/Classes/PHPExcel/Cell.php:590
+Stack trace:
+#0 /home/t674dz98g7zj/dev/Classes/PHPExcel/Worksheet.php(1228): PHPExcel_Cell::coordinateFromString('1')
+#1 /home/t674dz98g7zj/dev/Classes/PHPExcel/Worksheet.php(1187): PHPExcel_Worksheet->_createNewCell('1')
+#2 /home/t674dz98g7zj/dev/assignment_download/excel.php(154): PHPExcel_Worksheet->getCell('1')
+#3 {main}
+  thrown in /home/t674dz98g7zj/dev/Classes/PHPExcel/Cell.php on line 590
+[17-Jan-2022 16:11:12 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/t674dz98g7zj/dev/Classes/PHPExcel/Reader/Excel2007.php on line 467
+[17-Jan-2022 16:11:12 UTC] PHP Warning:  A non-numeric value encountered in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 154
+[17-Jan-2022 16:11:12 UTC] PHP Fatal error:  Uncaught PHPExcel_Exception: Invalid cell coordinate 1 in /home/t674dz98g7zj/dev/Classes/PHPExcel/Cell.php:590
+Stack trace:
+#0 /home/t674dz98g7zj/dev/Classes/PHPExcel/Worksheet.php(1228): PHPExcel_Cell::coordinateFromString('1')
+#1 /home/t674dz98g7zj/dev/Classes/PHPExcel/Worksheet.php(1187): PHPExcel_Worksheet->_createNewCell('1')
+#2 /home/t674dz98g7zj/dev/assignment_download/excel.php(154): PHPExcel_Worksheet->getCell('1')
+#3 {main}
+  thrown in /home/t674dz98g7zj/dev/Classes/PHPExcel/Cell.php on line 590
+[17-Jan-2022 16:12:25 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 154
+[17-Jan-2022 16:12:25 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 159
+[17-Jan-2022 16:12:25 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 163
+[17-Jan-2022 16:12:25 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 173
+[17-Jan-2022 16:12:25 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 185
+[17-Jan-2022 16:12:25 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 187
+[17-Jan-2022 16:12:25 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 201
+[17-Jan-2022 16:12:25 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 203
+[17-Jan-2022 16:12:25 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 205
+[17-Jan-2022 16:12:25 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 220
+[17-Jan-2022 16:12:25 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 222
+[17-Jan-2022 16:12:25 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 224
+[17-Jan-2022 16:12:25 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 226
+[17-Jan-2022 16:12:25 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 245
+[17-Jan-2022 16:12:25 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 247
+[17-Jan-2022 16:12:25 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 249
+[17-Jan-2022 16:12:25 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 251
+[17-Jan-2022 16:12:25 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 253
+[17-Jan-2022 16:12:25 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 269
+[17-Jan-2022 16:12:25 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 271
+[17-Jan-2022 16:12:25 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 273
+[17-Jan-2022 16:12:25 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 275
+[17-Jan-2022 16:12:25 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 277
+[17-Jan-2022 16:12:25 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/t674dz98g7zj/dev/Classes/PHPExcel/Reader/Excel2007.php on line 467
+[17-Jan-2022 16:12:25 UTC] PHP Warning:  A non-numeric value encountered in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 154
+[17-Jan-2022 16:12:25 UTC] PHP Fatal error:  Uncaught PHPExcel_Exception: Invalid cell coordinate 1 in /home/t674dz98g7zj/dev/Classes/PHPExcel/Cell.php:590
+Stack trace:
+#0 /home/t674dz98g7zj/dev/Classes/PHPExcel/Worksheet.php(1228): PHPExcel_Cell::coordinateFromString('1')
+#1 /home/t674dz98g7zj/dev/Classes/PHPExcel/Worksheet.php(1187): PHPExcel_Worksheet->_createNewCell('1')
+#2 /home/t674dz98g7zj/dev/assignment_download/excel.php(154): PHPExcel_Worksheet->getCell('1')
+#3 {main}
+  thrown in /home/t674dz98g7zj/dev/Classes/PHPExcel/Cell.php on line 590
+[17-Jan-2022 16:14:14 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 154
+[17-Jan-2022 16:14:14 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 159
+[17-Jan-2022 16:14:14 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 163
+[17-Jan-2022 16:14:14 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 173
+[17-Jan-2022 16:14:14 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 185
+[17-Jan-2022 16:14:14 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 187
+[17-Jan-2022 16:14:14 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 201
+[17-Jan-2022 16:14:14 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 203
+[17-Jan-2022 16:14:14 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 205
+[17-Jan-2022 16:14:14 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 220
+[17-Jan-2022 16:14:14 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 222
+[17-Jan-2022 16:14:14 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 224
+[17-Jan-2022 16:14:14 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 226
+[17-Jan-2022 16:14:14 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 245
+[17-Jan-2022 16:14:14 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 247
+[17-Jan-2022 16:14:14 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 249
+[17-Jan-2022 16:14:14 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 251
+[17-Jan-2022 16:14:14 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 253
+[17-Jan-2022 16:14:14 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 269
+[17-Jan-2022 16:14:14 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 271
+[17-Jan-2022 16:14:14 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 273
+[17-Jan-2022 16:14:14 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 275
+[17-Jan-2022 16:14:14 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 277
+[17-Jan-2022 16:14:14 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/t674dz98g7zj/dev/Classes/PHPExcel/Reader/Excel2007.php on line 467
+[17-Jan-2022 16:14:14 UTC] PHP Warning:  A non-numeric value encountered in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 154
+[17-Jan-2022 16:14:14 UTC] PHP Fatal error:  Uncaught PHPExcel_Exception: Invalid cell coordinate 1 in /home/t674dz98g7zj/dev/Classes/PHPExcel/Cell.php:590
+Stack trace:
+#0 /home/t674dz98g7zj/dev/Classes/PHPExcel/Worksheet.php(1228): PHPExcel_Cell::coordinateFromString('1')
+#1 /home/t674dz98g7zj/dev/Classes/PHPExcel/Worksheet.php(1187): PHPExcel_Worksheet->_createNewCell('1')
+#2 /home/t674dz98g7zj/dev/assignment_download/excel.php(154): PHPExcel_Worksheet->getCell('1')
+#3 {main}
+  thrown in /home/t674dz98g7zj/dev/Classes/PHPExcel/Cell.php on line 590
+[17-Jan-2022 16:31:09 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 154
+[17-Jan-2022 16:31:09 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 157
+[17-Jan-2022 16:31:09 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 161
+[17-Jan-2022 16:31:09 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 171
+[17-Jan-2022 16:31:09 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 183
+[17-Jan-2022 16:31:09 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 185
+[17-Jan-2022 16:31:09 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 199
+[17-Jan-2022 16:31:09 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 201
+[17-Jan-2022 16:31:09 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 203
+[17-Jan-2022 16:31:09 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 218
+[17-Jan-2022 16:31:09 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 220
+[17-Jan-2022 16:31:09 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 222
+[17-Jan-2022 16:31:09 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 224
+[17-Jan-2022 16:31:09 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 243
+[17-Jan-2022 16:31:09 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 245
+[17-Jan-2022 16:31:09 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 247
+[17-Jan-2022 16:31:09 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 249
+[17-Jan-2022 16:31:09 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 251
+[17-Jan-2022 16:31:09 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 267
+[17-Jan-2022 16:31:09 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 269
+[17-Jan-2022 16:31:09 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 271
+[17-Jan-2022 16:31:09 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 273
+[17-Jan-2022 16:31:09 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 275
+[17-Jan-2022 16:31:09 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/t674dz98g7zj/dev/Classes/PHPExcel/Reader/Excel2007.php on line 467
+[17-Jan-2022 16:31:09 UTC] PHP Warning:  A non-numeric value encountered in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 154
+[17-Jan-2022 16:31:09 UTC] PHP Fatal error:  Uncaught PHPExcel_Exception: Invalid cell coordinate 1 in /home/t674dz98g7zj/dev/Classes/PHPExcel/Cell.php:590
+Stack trace:
+#0 /home/t674dz98g7zj/dev/Classes/PHPExcel/Worksheet.php(1228): PHPExcel_Cell::coordinateFromString('1')
+#1 /home/t674dz98g7zj/dev/Classes/PHPExcel/Worksheet.php(1187): PHPExcel_Worksheet->_createNewCell('1')
+#2 /home/t674dz98g7zj/dev/assignment_download/excel.php(154): PHPExcel_Worksheet->getCell('1')
+#3 {main}
+  thrown in /home/t674dz98g7zj/dev/Classes/PHPExcel/Cell.php on line 590
+[17-Jan-2022 16:33:45 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 154
+[17-Jan-2022 16:33:45 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 157
+[17-Jan-2022 16:33:45 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 161
+[17-Jan-2022 16:33:45 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 171
+[17-Jan-2022 16:33:45 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 183
+[17-Jan-2022 16:33:45 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 185
+[17-Jan-2022 16:33:45 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 199
+[17-Jan-2022 16:33:45 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 201
+[17-Jan-2022 16:33:45 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 203
+[17-Jan-2022 16:33:45 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 218
+[17-Jan-2022 16:33:45 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 220
+[17-Jan-2022 16:33:45 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 222
+[17-Jan-2022 16:33:45 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 224
+[17-Jan-2022 16:33:45 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 243
+[17-Jan-2022 16:33:45 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 245
+[17-Jan-2022 16:33:45 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 247
+[17-Jan-2022 16:33:45 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 249
+[17-Jan-2022 16:33:45 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 251
+[17-Jan-2022 16:33:45 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 267
+[17-Jan-2022 16:33:45 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 269
+[17-Jan-2022 16:33:45 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 271
+[17-Jan-2022 16:33:45 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 273
+[17-Jan-2022 16:33:45 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 275
+[17-Jan-2022 16:33:45 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/t674dz98g7zj/dev/Classes/PHPExcel/Reader/Excel2007.php on line 467
+[17-Jan-2022 16:33:45 UTC] PHP Warning:  A non-numeric value encountered in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 154
+[17-Jan-2022 16:33:45 UTC] PHP Fatal error:  Uncaught PHPExcel_Exception: Invalid cell coordinate 1 in /home/t674dz98g7zj/dev/Classes/PHPExcel/Cell.php:590
+Stack trace:
+#0 /home/t674dz98g7zj/dev/Classes/PHPExcel/Worksheet.php(1228): PHPExcel_Cell::coordinateFromString('1')
+#1 /home/t674dz98g7zj/dev/Classes/PHPExcel/Worksheet.php(1187): PHPExcel_Worksheet->_createNewCell('1')
+#2 /home/t674dz98g7zj/dev/assignment_download/excel.php(154): PHPExcel_Worksheet->getCell('1')
+#3 {main}
+  thrown in /home/t674dz98g7zj/dev/Classes/PHPExcel/Cell.php on line 590
+[17-Jan-2022 16:34:34 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/t674dz98g7zj/dev/Classes/PHPExcel/Reader/Excel2007.php on line 467
+[17-Jan-2022 16:34:34 UTC] PHP Warning:  A non-numeric value encountered in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 154
+[17-Jan-2022 16:34:34 UTC] PHP Fatal error:  Uncaught PHPExcel_Exception: Invalid cell coordinate 1 in /home/t674dz98g7zj/dev/Classes/PHPExcel/Cell.php:590
+Stack trace:
+#0 /home/t674dz98g7zj/dev/Classes/PHPExcel/Worksheet.php(1228): PHPExcel_Cell::coordinateFromString('1')
+#1 /home/t674dz98g7zj/dev/Classes/PHPExcel/Worksheet.php(1187): PHPExcel_Worksheet->_createNewCell('1')
+#2 /home/t674dz98g7zj/dev/assignment_download/excel.php(154): PHPExcel_Worksheet->getCell('1')
+#3 {main}
+  thrown in /home/t674dz98g7zj/dev/Classes/PHPExcel/Cell.php on line 590
+[17-Jan-2022 16:35:57 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/t674dz98g7zj/dev/Classes/PHPExcel/Reader/Excel2007.php on line 467
+[17-Jan-2022 16:35:57 UTC] PHP Warning:  A non-numeric value encountered in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 154
+[17-Jan-2022 16:35:57 UTC] PHP Fatal error:  Uncaught PHPExcel_Exception: Invalid cell coordinate 1 in /home/t674dz98g7zj/dev/Classes/PHPExcel/Cell.php:590
+Stack trace:
+#0 /home/t674dz98g7zj/dev/Classes/PHPExcel/Worksheet.php(1228): PHPExcel_Cell::coordinateFromString('1')
+#1 /home/t674dz98g7zj/dev/Classes/PHPExcel/Worksheet.php(1187): PHPExcel_Worksheet->_createNewCell('1')
+#2 /home/t674dz98g7zj/dev/assignment_download/excel.php(154): PHPExcel_Worksheet->getCell('1')
+#3 {main}
+  thrown in /home/t674dz98g7zj/dev/Classes/PHPExcel/Cell.php on line 590
+[17-Jan-2022 16:39:40 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 154
+[17-Jan-2022 16:39:40 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 157
+[17-Jan-2022 16:39:40 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 161
+[17-Jan-2022 16:39:40 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 171
+[17-Jan-2022 16:39:40 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 183
+[17-Jan-2022 16:39:40 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 185
+[17-Jan-2022 16:39:40 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 199
+[17-Jan-2022 16:39:40 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 201
+[17-Jan-2022 16:39:40 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 203
+[17-Jan-2022 16:39:40 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 218
+[17-Jan-2022 16:39:40 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 220
+[17-Jan-2022 16:39:40 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 222
+[17-Jan-2022 16:39:40 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 224
+[17-Jan-2022 16:39:40 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 243
+[17-Jan-2022 16:39:40 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 245
+[17-Jan-2022 16:39:40 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 247
+[17-Jan-2022 16:39:40 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 249
+[17-Jan-2022 16:39:40 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 251
+[17-Jan-2022 16:39:40 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 267
+[17-Jan-2022 16:39:40 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 269
+[17-Jan-2022 16:39:40 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 271
+[17-Jan-2022 16:39:40 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 273
+[17-Jan-2022 16:39:40 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 275
+[17-Jan-2022 16:39:40 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/t674dz98g7zj/dev/Classes/PHPExcel/Reader/Excel2007.php on line 467
+[17-Jan-2022 16:39:40 UTC] PHP Warning:  A non-numeric value encountered in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 154
+[17-Jan-2022 16:39:40 UTC] PHP Fatal error:  Uncaught PHPExcel_Exception: Invalid cell coordinate 1 in /home/t674dz98g7zj/dev/Classes/PHPExcel/Cell.php:590
+Stack trace:
+#0 /home/t674dz98g7zj/dev/Classes/PHPExcel/Worksheet.php(1228): PHPExcel_Cell::coordinateFromString('1')
+#1 /home/t674dz98g7zj/dev/Classes/PHPExcel/Worksheet.php(1187): PHPExcel_Worksheet->_createNewCell('1')
+#2 /home/t674dz98g7zj/dev/assignment_download/excel.php(154): PHPExcel_Worksheet->getCell('1')
+#3 {main}
+  thrown in /home/t674dz98g7zj/dev/Classes/PHPExcel/Cell.php on line 590
+[17-Jan-2022 16:40:34 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/t674dz98g7zj/dev/Classes/PHPExcel/Reader/Excel2007.php on line 467
+[17-Jan-2022 16:40:34 UTC] PHP Warning:  A non-numeric value encountered in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 154
+[17-Jan-2022 16:40:34 UTC] PHP Fatal error:  Uncaught PHPExcel_Exception: Invalid cell coordinate 1 in /home/t674dz98g7zj/dev/Classes/PHPExcel/Cell.php:590
+Stack trace:
+#0 /home/t674dz98g7zj/dev/Classes/PHPExcel/Worksheet.php(1228): PHPExcel_Cell::coordinateFromString('1')
+#1 /home/t674dz98g7zj/dev/Classes/PHPExcel/Worksheet.php(1187): PHPExcel_Worksheet->_createNewCell('1')
+#2 /home/t674dz98g7zj/dev/assignment_download/excel.php(154): PHPExcel_Worksheet->getCell('1')
+#3 {main}
+  thrown in /home/t674dz98g7zj/dev/Classes/PHPExcel/Cell.php on line 590
+[17-Jan-2022 16:41:21 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 154
+[17-Jan-2022 16:41:21 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 157
+[17-Jan-2022 16:41:21 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 161
+[17-Jan-2022 16:41:21 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 171
+[17-Jan-2022 16:41:21 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 183
+[17-Jan-2022 16:41:21 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 185
+[17-Jan-2022 16:41:21 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 199
+[17-Jan-2022 16:41:21 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 201
+[17-Jan-2022 16:41:21 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 203
+[17-Jan-2022 16:41:21 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 218
+[17-Jan-2022 16:41:21 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 220
+[17-Jan-2022 16:41:21 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 222
+[17-Jan-2022 16:41:21 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 224
+[17-Jan-2022 16:41:21 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 243
+[17-Jan-2022 16:41:21 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 245
+[17-Jan-2022 16:41:21 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 247
+[17-Jan-2022 16:41:21 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 249
+[17-Jan-2022 16:41:21 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 251
+[17-Jan-2022 16:41:21 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 267
+[17-Jan-2022 16:41:21 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 269
+[17-Jan-2022 16:41:21 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 271
+[17-Jan-2022 16:41:21 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 273
+[17-Jan-2022 16:41:21 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 275
+[17-Jan-2022 16:41:21 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/t674dz98g7zj/dev/Classes/PHPExcel/Reader/Excel2007.php on line 467
+[17-Jan-2022 16:41:21 UTC] PHP Warning:  A non-numeric value encountered in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 154
+[17-Jan-2022 16:41:21 UTC] PHP Fatal error:  Uncaught PHPExcel_Exception: Invalid cell coordinate 1 in /home/t674dz98g7zj/dev/Classes/PHPExcel/Cell.php:590
+Stack trace:
+#0 /home/t674dz98g7zj/dev/Classes/PHPExcel/Worksheet.php(1228): PHPExcel_Cell::coordinateFromString('1')
+#1 /home/t674dz98g7zj/dev/Classes/PHPExcel/Worksheet.php(1187): PHPExcel_Worksheet->_createNewCell('1')
+#2 /home/t674dz98g7zj/dev/assignment_download/excel.php(154): PHPExcel_Worksheet->getCell('1')
+#3 {main}
+  thrown in /home/t674dz98g7zj/dev/Classes/PHPExcel/Cell.php on line 590
+[17-Jan-2022 16:51:54 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 154
+[17-Jan-2022 16:51:54 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 157
+[17-Jan-2022 16:51:54 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 161
+[17-Jan-2022 16:51:54 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 171
+[17-Jan-2022 16:51:54 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 183
+[17-Jan-2022 16:51:54 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 185
+[17-Jan-2022 16:51:54 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 199
+[17-Jan-2022 16:51:54 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 201
+[17-Jan-2022 16:51:54 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 203
+[17-Jan-2022 16:51:54 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 218
+[17-Jan-2022 16:51:54 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 220
+[17-Jan-2022 16:51:54 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 222
+[17-Jan-2022 16:51:54 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 224
+[17-Jan-2022 16:51:54 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 243
+[17-Jan-2022 16:51:54 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 245
+[17-Jan-2022 16:51:54 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 247
+[17-Jan-2022 16:51:54 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 249
+[17-Jan-2022 16:51:54 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 251
+[17-Jan-2022 16:51:54 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 267
+[17-Jan-2022 16:51:54 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 269
+[17-Jan-2022 16:51:54 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 271
+[17-Jan-2022 16:51:54 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 273
+[17-Jan-2022 16:51:54 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 275
+[17-Jan-2022 16:51:54 UTC] PHP Warning:  A non-numeric value encountered in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 154
+[17-Jan-2022 16:51:54 UTC] PHP Fatal error:  Uncaught PHPExcel_Exception: Invalid cell coordinate 1 in /home/t674dz98g7zj/dev/Classes/PHPExcel/Cell.php:590
+Stack trace:
+#0 /home/t674dz98g7zj/dev/Classes/PHPExcel/Worksheet.php(1228): PHPExcel_Cell::coordinateFromString('1')
+#1 /home/t674dz98g7zj/dev/Classes/PHPExcel/Worksheet.php(1187): PHPExcel_Worksheet->_createNewCell('1')
+#2 /home/t674dz98g7zj/dev/assignment_download/excel.php(154): PHPExcel_Worksheet->getCell('1')
+#3 {main}
+  thrown in /home/t674dz98g7zj/dev/Classes/PHPExcel/Cell.php on line 590
+[17-Jan-2022 16:52:27 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 154
+[17-Jan-2022 16:52:27 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 157
+[17-Jan-2022 16:52:27 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 161
+[17-Jan-2022 16:52:27 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 171
+[17-Jan-2022 16:52:27 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 183
+[17-Jan-2022 16:52:27 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 185
+[17-Jan-2022 16:52:27 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 199
+[17-Jan-2022 16:52:27 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 201
+[17-Jan-2022 16:52:27 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 203
+[17-Jan-2022 16:52:27 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 218
+[17-Jan-2022 16:52:27 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 220
+[17-Jan-2022 16:52:27 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 222
+[17-Jan-2022 16:52:27 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 224
+[17-Jan-2022 16:52:27 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 243
+[17-Jan-2022 16:52:27 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 245
+[17-Jan-2022 16:52:27 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 247
+[17-Jan-2022 16:52:27 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 249
+[17-Jan-2022 16:52:27 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 251
+[17-Jan-2022 16:52:27 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 267
+[17-Jan-2022 16:52:27 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 269
+[17-Jan-2022 16:52:27 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 271
+[17-Jan-2022 16:52:27 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 273
+[17-Jan-2022 16:52:27 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 275
+[17-Jan-2022 16:52:27 UTC] PHP Warning:  A non-numeric value encountered in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 154
+[17-Jan-2022 16:52:27 UTC] PHP Fatal error:  Uncaught PHPExcel_Exception: Invalid cell coordinate 1 in /home/t674dz98g7zj/dev/Classes/PHPExcel/Cell.php:590
+Stack trace:
+#0 /home/t674dz98g7zj/dev/Classes/PHPExcel/Worksheet.php(1228): PHPExcel_Cell::coordinateFromString('1')
+#1 /home/t674dz98g7zj/dev/Classes/PHPExcel/Worksheet.php(1187): PHPExcel_Worksheet->_createNewCell('1')
+#2 /home/t674dz98g7zj/dev/assignment_download/excel.php(154): PHPExcel_Worksheet->getCell('1')
+#3 {main}
+  thrown in /home/t674dz98g7zj/dev/Classes/PHPExcel/Cell.php on line 590
+[17-Jan-2022 16:52:36 UTC] PHP Warning:  A non-numeric value encountered in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 154
+[17-Jan-2022 16:52:36 UTC] PHP Fatal error:  Uncaught PHPExcel_Exception: Invalid cell coordinate 1 in /home/t674dz98g7zj/dev/Classes/PHPExcel/Cell.php:590
+Stack trace:
+#0 /home/t674dz98g7zj/dev/Classes/PHPExcel/Worksheet.php(1228): PHPExcel_Cell::coordinateFromString('1')
+#1 /home/t674dz98g7zj/dev/Classes/PHPExcel/Worksheet.php(1187): PHPExcel_Worksheet->_createNewCell('1')
+#2 /home/t674dz98g7zj/dev/assignment_download/excel.php(154): PHPExcel_Worksheet->getCell('1')
+#3 {main}
+  thrown in /home/t674dz98g7zj/dev/Classes/PHPExcel/Cell.php on line 590
+[17-Jan-2022 16:53:28 UTC] PHP Warning:  A non-numeric value encountered in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 154
+[17-Jan-2022 16:53:28 UTC] PHP Fatal error:  Uncaught PHPExcel_Exception: Invalid cell coordinate 1 in /home/t674dz98g7zj/dev/Classes/PHPExcel/Cell.php:590
+Stack trace:
+#0 /home/t674dz98g7zj/dev/Classes/PHPExcel/Worksheet.php(1228): PHPExcel_Cell::coordinateFromString('1')
+#1 /home/t674dz98g7zj/dev/Classes/PHPExcel/Worksheet.php(1187): PHPExcel_Worksheet->_createNewCell('1')
+#2 /home/t674dz98g7zj/dev/assignment_download/excel.php(154): PHPExcel_Worksheet->getCell('1')
+#3 {main}
+  thrown in /home/t674dz98g7zj/dev/Classes/PHPExcel/Cell.php on line 590
+[17-Jan-2022 16:56:49 UTC] PHP Warning:  A non-numeric value encountered in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 154
+[17-Jan-2022 16:56:49 UTC] PHP Fatal error:  Uncaught PHPExcel_Exception: Invalid cell coordinate 1 in /home/t674dz98g7zj/dev/Classes/PHPExcel/Cell.php:590
+Stack trace:
+#0 /home/t674dz98g7zj/dev/Classes/PHPExcel/Worksheet.php(1228): PHPExcel_Cell::coordinateFromString('1')
+#1 /home/t674dz98g7zj/dev/Classes/PHPExcel/Worksheet.php(1187): PHPExcel_Worksheet->_createNewCell('1')
+#2 /home/t674dz98g7zj/dev/assignment_download/excel.php(154): PHPExcel_Worksheet->getCell('1')
+#3 {main}
+  thrown in /home/t674dz98g7zj/dev/Classes/PHPExcel/Cell.php on line 590
+[17-Jan-2022 16:57:07 UTC] PHP Warning:  A non-numeric value encountered in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 154
+[17-Jan-2022 16:57:07 UTC] PHP Fatal error:  Uncaught PHPExcel_Exception: Invalid cell coordinate 1 in /home/t674dz98g7zj/dev/Classes/PHPExcel/Cell.php:590
+Stack trace:
+#0 /home/t674dz98g7zj/dev/Classes/PHPExcel/Worksheet.php(1228): PHPExcel_Cell::coordinateFromString('1')
+#1 /home/t674dz98g7zj/dev/Classes/PHPExcel/Worksheet.php(1187): PHPExcel_Worksheet->_createNewCell('1')
+#2 /home/t674dz98g7zj/dev/assignment_download/excel.php(154): PHPExcel_Worksheet->getCell('1')
+#3 {main}
+  thrown in /home/t674dz98g7zj/dev/Classes/PHPExcel/Cell.php on line 590
+[17-Jan-2022 16:57:51 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 154
+[17-Jan-2022 16:57:51 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 157
+[17-Jan-2022 16:57:51 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 161
+[17-Jan-2022 16:57:51 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 171
+[17-Jan-2022 16:57:51 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 183
+[17-Jan-2022 16:57:51 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 185
+[17-Jan-2022 16:57:51 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 199
+[17-Jan-2022 16:57:51 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 201
+[17-Jan-2022 16:57:51 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 203
+[17-Jan-2022 16:57:51 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 218
+[17-Jan-2022 16:57:51 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 220
+[17-Jan-2022 16:57:51 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 222
+[17-Jan-2022 16:57:51 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 224
+[17-Jan-2022 16:57:51 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 243
+[17-Jan-2022 16:57:51 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 245
+[17-Jan-2022 16:57:51 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 247
+[17-Jan-2022 16:57:51 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 249
+[17-Jan-2022 16:57:51 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 251
+[17-Jan-2022 16:57:51 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 267
+[17-Jan-2022 16:57:51 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 269
+[17-Jan-2022 16:57:51 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 271
+[17-Jan-2022 16:57:51 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 273
+[17-Jan-2022 16:57:51 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 275
+[17-Jan-2022 16:57:51 UTC] PHP Warning:  A non-numeric value encountered in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 154
+[17-Jan-2022 16:57:51 UTC] PHP Fatal error:  Uncaught PHPExcel_Exception: Invalid cell coordinate 1 in /home/t674dz98g7zj/dev/Classes/PHPExcel/Cell.php:590
+Stack trace:
+#0 /home/t674dz98g7zj/dev/Classes/PHPExcel/Worksheet.php(1228): PHPExcel_Cell::coordinateFromString('1')
+#1 /home/t674dz98g7zj/dev/Classes/PHPExcel/Worksheet.php(1187): PHPExcel_Worksheet->_createNewCell('1')
+#2 /home/t674dz98g7zj/dev/assignment_download/excel.php(154): PHPExcel_Worksheet->getCell('1')
+#3 {main}
+  thrown in /home/t674dz98g7zj/dev/Classes/PHPExcel/Cell.php on line 590
+[17-Jan-2022 16:57:57 UTC] PHP Warning:  A non-numeric value encountered in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 154
+[17-Jan-2022 16:57:57 UTC] PHP Fatal error:  Uncaught PHPExcel_Exception: Invalid cell coordinate 1 in /home/t674dz98g7zj/dev/Classes/PHPExcel/Cell.php:590
+Stack trace:
+#0 /home/t674dz98g7zj/dev/Classes/PHPExcel/Worksheet.php(1228): PHPExcel_Cell::coordinateFromString('1')
+#1 /home/t674dz98g7zj/dev/Classes/PHPExcel/Worksheet.php(1187): PHPExcel_Worksheet->_createNewCell('1')
+#2 /home/t674dz98g7zj/dev/assignment_download/excel.php(154): PHPExcel_Worksheet->getCell('1')
+#3 {main}
+  thrown in /home/t674dz98g7zj/dev/Classes/PHPExcel/Cell.php on line 590
+[18-Jan-2022 03:55:14 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 154
+[18-Jan-2022 03:55:14 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 157
+[18-Jan-2022 03:55:14 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 161
+[18-Jan-2022 03:55:14 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 171
+[18-Jan-2022 03:55:14 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 183
+[18-Jan-2022 03:55:14 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 185
+[18-Jan-2022 03:55:14 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 199
+[18-Jan-2022 03:55:14 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 201
+[18-Jan-2022 03:55:14 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 203
+[18-Jan-2022 03:55:14 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 218
+[18-Jan-2022 03:55:14 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 220
+[18-Jan-2022 03:55:14 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 222
+[18-Jan-2022 03:55:14 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 224
+[18-Jan-2022 03:55:14 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 243
+[18-Jan-2022 03:55:14 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 245
+[18-Jan-2022 03:55:14 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 247
+[18-Jan-2022 03:55:14 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 249
+[18-Jan-2022 03:55:14 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 251
+[18-Jan-2022 03:55:14 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 267
+[18-Jan-2022 03:55:14 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 269
+[18-Jan-2022 03:55:14 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 271
+[18-Jan-2022 03:55:14 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 273
+[18-Jan-2022 03:55:14 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 275
+[18-Jan-2022 03:55:14 UTC] PHP Warning:  A non-numeric value encountered in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 154
+[18-Jan-2022 03:55:14 UTC] PHP Fatal error:  Uncaught PHPExcel_Exception: Invalid cell coordinate 1 in /home/t674dz98g7zj/dev/Classes/PHPExcel/Cell.php:590
+Stack trace:
+#0 /home/t674dz98g7zj/dev/Classes/PHPExcel/Worksheet.php(1228): PHPExcel_Cell::coordinateFromString('1')
+#1 /home/t674dz98g7zj/dev/Classes/PHPExcel/Worksheet.php(1187): PHPExcel_Worksheet->_createNewCell('1')
+#2 /home/t674dz98g7zj/dev/assignment_download/excel.php(154): PHPExcel_Worksheet->getCell('1')
+#3 {main}
+  thrown in /home/t674dz98g7zj/dev/Classes/PHPExcel/Cell.php on line 590
+[18-Jan-2022 03:56:13 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 157
+[18-Jan-2022 03:56:13 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 160
+[18-Jan-2022 03:56:13 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 164
+[18-Jan-2022 03:56:13 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 174
+[18-Jan-2022 03:56:13 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 186
+[18-Jan-2022 03:56:13 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 188
+[18-Jan-2022 03:56:13 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 202
+[18-Jan-2022 03:56:13 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 204
+[18-Jan-2022 03:56:13 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 206
+[18-Jan-2022 03:56:13 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 221
+[18-Jan-2022 03:56:13 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 223
+[18-Jan-2022 03:56:13 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 225
+[18-Jan-2022 03:56:13 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 227
+[18-Jan-2022 03:56:13 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 246
+[18-Jan-2022 03:56:13 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 248
+[18-Jan-2022 03:56:13 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 250
+[18-Jan-2022 03:56:13 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 252
+[18-Jan-2022 03:56:13 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 254
+[18-Jan-2022 03:56:13 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 270
+[18-Jan-2022 03:56:13 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 272
+[18-Jan-2022 03:56:13 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 274
+[18-Jan-2022 03:56:13 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 276
+[18-Jan-2022 03:56:13 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 278
+[18-Jan-2022 03:56:13 UTC] PHP Warning:  A non-numeric value encountered in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 157
+[18-Jan-2022 03:56:13 UTC] PHP Fatal error:  Uncaught PHPExcel_Exception: Invalid cell coordinate 1 in /home/t674dz98g7zj/dev/Classes/PHPExcel/Cell.php:590
+Stack trace:
+#0 /home/t674dz98g7zj/dev/Classes/PHPExcel/Worksheet.php(1228): PHPExcel_Cell::coordinateFromString('1')
+#1 /home/t674dz98g7zj/dev/Classes/PHPExcel/Worksheet.php(1187): PHPExcel_Worksheet->_createNewCell('1')
+#2 /home/t674dz98g7zj/dev/assignment_download/excel.php(157): PHPExcel_Worksheet->getCell('1')
+#3 {main}
+  thrown in /home/t674dz98g7zj/dev/Classes/PHPExcel/Cell.php on line 590
+[18-Jan-2022 03:57:30 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 174
+[18-Jan-2022 03:57:30 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 186
+[18-Jan-2022 03:57:30 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 188
+[18-Jan-2022 03:57:30 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 202
+[18-Jan-2022 03:57:30 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 204
+[18-Jan-2022 03:57:30 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 206
+[18-Jan-2022 03:57:30 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 221
+[18-Jan-2022 03:57:30 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 223
+[18-Jan-2022 03:57:30 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 225
+[18-Jan-2022 03:57:30 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 227
+[18-Jan-2022 03:57:30 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 246
+[18-Jan-2022 03:57:30 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 248
+[18-Jan-2022 03:57:30 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 250
+[18-Jan-2022 03:57:30 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 252
+[18-Jan-2022 03:57:30 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 254
+[18-Jan-2022 03:57:30 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 270
+[18-Jan-2022 03:57:30 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 272
+[18-Jan-2022 03:57:30 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 274
+[18-Jan-2022 03:57:30 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 276
+[18-Jan-2022 03:57:30 UTC] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 278
+[18-Jan-2022 03:57:30 UTC] PHP Warning:  A non-numeric value encountered in /home/t674dz98g7zj/dev/assignment_download/excel.php on line 174
+[18-Jan-2022 03:57:30 UTC] PHP Fatal error:  Uncaught PHPExcel_Exception: Invalid cell coordinate 1 in /home/t674dz98g7zj/dev/Classes/PHPExcel/Cell.php:590
+Stack trace:
+#0 /home/t674dz98g7zj/dev/Classes/PHPExcel/Worksheet.php(1228): PHPExcel_Cell::coordinateFromString('1')
+#1 /home/t674dz98g7zj/dev/Classes/PHPExcel/Worksheet.php(1187): PHPExcel_Worksheet->_createNewCell('1')
+#2 /home/t674dz98g7zj/dev/assignment_download/excel.php(174): PHPExcel_Worksheet->getCell('1')
+#3 {main}
+  thrown in /home/t674dz98g7zj/dev/Classes/PHPExcel/Cell.php on line 590

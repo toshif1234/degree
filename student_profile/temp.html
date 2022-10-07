@@ -1,0 +1,152 @@
+<div>
+
+                <?php
+                $con = mysqli_connect("localhost", "root", "", "erp_alvas");
+                if (mysqli_connect_error()) {
+                    echo "error";
+                } else {
+                    $admission_no = $_SESSION["adm_no"];
+                   
+                    $que = "select * from puc_details where adm_no=\"$admission_no\"";
+                    $re = $con->query($que);
+
+                    foreach ($re as $r) {
+                ?>
+                 <form action="update_profile_puc_details.php" method="post">
+
+                        <h4>PU Details :</h4><br>
+                        <div class="form-row">
+                        <div class="form-group col-md-4">
+                                <label for="puc_reg_no">Admission Number:</label>
+                                <input type="text" name="adm_no" class="form-control" id="puc_reg_no"
+                                value=<?php echo $admission_no?>
+                                >
+                            </div>
+                            <div class="form-group col-md-4">
+                                <label for="puc_reg_no">Register Number :</label>
+                                <input type="text" name="puc_reg_no" class="form-control" id="puc_reg_no"
+                                value=<?php echo $r["puc_reg_no"]?>
+                                >
+                            </div>
+                            <div class="form-group col-md-4">
+                                <label for="puc_collage">College :</label>
+                                <input type="text" name="puc_collage" class="form-control" id="puc_collage"
+                                value=<?php echo $r["puc_school"]?>
+                                >
+                            </div>
+                            <div class="form-group col-md-4">
+                                <label for="puc_board_university">Board/University :</label>
+                                <input type="text" name="puc_board_university" class="form-control" id="puc_board_university"
+                                value=<?php echo $r["puc_board_university"]?>
+                                >
+                            </div>
+                        </div>
+                        <div class="form-row">
+                            <div class="form-group col-md-3">
+                                <label for="puc_year">Year of Pass :</label>
+                                <input type="text" name="puc_year" class="form-control" id="puc_year"
+                                value=<?php echo $r["puc_year"]?>
+                                >
+                            </div>
+                            <div class="form-group col-md-3">
+                                <label for="puc_max_marks">Maximum Marks :</label>
+                                <input type="text" name="puc_max_marks" class="form-control" id="puc_max_marks"
+                                value=<?php echo $r["puc_max_marks"]?>
+                                >
+                            </div>
+                            <div class="form-group col-md-3">
+                                <label for="puc_obtained_marks">Obtained Marks :</label>
+                                <input type="text" name="puc_obtained_marks" class="form-control" id="puc_obtained_marks"
+                                value=<?php echo $r["puc_obtained_marks"]?>
+                                >
+                            </div>
+                            <div class="form-group col-md-3">
+                                <label for="puc_percentage">Percentage :</label>
+                                <input type="text" name="puc_percentage" class="form-control" id="puc_percentage"
+                                value=<?php echo $r["puc_percentage"]?>
+                                >
+                            </div>
+                        </div>
+                        <div class="form-row">
+                            <div class="form-group col-md-3">
+                                <h6>Physics :</h6>
+                                <label for="puc_phy_max_marks">Maximum Marks :</label>
+                                <input type="text" name="puc_phy_max_marks" class="form-control" id="puc_phy_max_marks"
+                                value=<?php echo $r["puc_phy_max_marks"]?>
+                                >
+                                <label for="puc_phy_obtained_marks">Obtained Marks :</label>
+                                <input type="text" name="puc_phy_obtained_marks" class="form-control" id="puc_phy_obtained_marks"
+                                value=<?php echo $r["puc_phy_obtained_marks"]?>
+                                >
+                            </div>
+                            <div class="form-group col-md-3">
+                                <h6>Chemistry :</h6>
+                                <label for="puc_che_max_marks">Maximum Marks :</label>
+                                <input type="text" name="puc_che_max_marks" class="form-control" id="puc_che_max_marks"
+                                value=<?php echo $r["puc_che_max_marks"]?>
+                                >
+                                <label for="puc_che_obtained_marks">Obtained Marks :</label>
+                                <input type="text" name="puc_che_obtained_marks" class="form-control" id="puc_che_obtained_marks"
+                                value=<?php echo $r["puc_che_obtained_marks"]?>
+                                >
+
+                            </div>
+                            <div class="form-group col-md-3">
+                                <h6>Mathematics :</h6>
+                                <label for="puc_maths_max_marks">Maximum Marks :</label>
+                                <input type="text" name="puc_maths_max_marks" class="form-control" id="puc_maths_max_marks"
+                                value=<?php echo $r["puc_maths_max_marks"]?>
+                                >
+                                <label for="puc_maths_obtained_marks">Obtained Marks :</label>
+                                <input type="text" name="puc_maths_obtained_marks" class="form-control" id="puc_maths_obtained_marks"
+                                value=<?php echo $r["puc_maths_obtained_marks"]?>
+                                >
+
+                            </div>
+                            <div class="form-group col-md-3">
+                                <h6>Bio/CS/E/S :</h6>
+                                <label for="puc_elective_max_marks">Maximum Marks :</label>
+                                <input type="text" name="puc_elective_max_marks" class="form-control" id="puc_elective_max_marks"
+                                value=<?php echo $r["puc_elective_max_marks"]?>
+                                >
+                                <label for="puc_elective_obtained_marks">Obtained Marks :</label>
+                                <input type="text" name="puc_elective_obtained_marks" class="form-control" id="puc_elective_obtained_marks">
+                            </div>
+                        </div>
+                        <div class="form-row">
+                            <div class="form-group col-md-6">
+                                <h6>English :</h6>
+                                <label for="puc_eng_max_marks">Maximum Marks :</label>
+                                <input type="text" name="puc_eng_max_marks" class="form-control" id="puc_eng_max_marks"
+                                value=<?php echo $r["puc_eng_max_marks"]?>
+                                >
+                                <label for="puc_eng_obtained_marks">Obtained Marks :</label>
+                                <input type="text" name="puc_eng_obtained_marks" class="form-control" id="puc_eng_obtained_marks"
+                                value=<?php echo $r["puc_eng_obtained_marks"]?>
+                                >
+
+                            </div>
+                            <div class="form-group col-md-6">
+
+                                <label for="puc_sub_total_marks">Total Marks :</label>
+                                <input type="text" name="puc_sub_total_marks" class="form-control" id="puc_sub_total_marks"
+                                value=<?php echo $r["puc_sub_total_marks"]?>
+                                >
+                                <br><br>
+                               
+                                <button type="submit" class="btn btn-primary" style="float: right;">Update</button>
+                               
+
+                            </div>
+                        </div>
+                        </form>
+
+                <?php
+                    }
+                } ?>
+
+
+
+
+
+            </div>
