@@ -314,7 +314,7 @@
                                     <script src="https://cdn.lordicon.com/xdjxvujz.js"></script>
                                     <lord-icon src="https://cdn.lordicon.com/xulniijg.json" trigger="hover" colors="primary:#9cf4df" style="width:32px;height:32px">
                                     </lord-icon>
-                                    IA Management
+                                    Class Test Management
                                 </a>
                             </li>
                             <li>
@@ -407,16 +407,16 @@
                                     </li>
 
                                     <li>
-                                        <a href=" #iamarks" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle">IA Marks</a>
+                                        <a href=" #iamarks" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle">Class Test Marks</a>
                                         <ul class="collapse list-unstyled" id="iamarks">
                                             <li>
-                                                <a href="../faculty_download/iamark1_excel.php">IA I</a>
+                                                <a href="../faculty_download/iamark1_excel.php">Class Test I</a>
                                             </li>
                                             <li>
-                                                <a href="../faculty_download/iamark2_excel.php">IA II</a>
+                                                <a href="../faculty_download/iamark2_excel.php">Class Test II</a>
                                             </li>
                                             <li>
-                                                <a href="../faculty_download/iamark3_excel.php">IA III</a>
+                                                <a href="../faculty_download/iamark3_excel.php">Class Test III</a>
                                             </li>
                                         </ul>
                                     </li>
@@ -505,7 +505,7 @@
                                     <li>
                                         <a href="../ia_report_generation/select_semester.php">IA Marks</a>
                                         <?php if ($_SESSION['username'] == 'Shilpa') { ?>
-                                            <a href="../ia_report_generation/select_semester_parallel.php">IA Marks Parallel</a>
+                                            <a href="../ia_report_generation/select_semester_parallel.php">Class Test Marks Parallel</a>
                                         <?php } ?>
                                     </li>
                                     <?php if ($_SESSION['username'] == 'Shilpa') { ?>
@@ -1018,11 +1018,11 @@
                         <i class="fas fa-align-left"></i>
                     </button>
                     <div class="d-none d-sm-none d-md-block">
-                        <h5 style="text-align: center;" class="">Alva's Institute Of Engineering & Technology</h5>
+                        <h5 style="text-align: center;" class="">Alva's Degree College</h5>
                     </div>
 
                     <div class="d-md-none d-sm-block">
-                        <h5 style="text-align: center;" class=" ">AIET</h5>
+                        <h5 style="text-align: center;" class=" ">Alva's</h5>
                     </div>
 
                     <div class="">

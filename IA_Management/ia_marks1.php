@@ -139,7 +139,7 @@ if ($m == $sem) {
                         <div class="modal-dialog">
                             <div class="modal-content">
                                 <div class="modal-header">
-                                    <h5 class="modal-title" id="exampleModalLabel">Import IA1</h5>
+                                    <h5 class="modal-title" id="exampleModalLabel">Import Class Test1</h5>
                                     <button type="button" class="close btn" data-dismiss="modal" aria-label="Close">
                                         <span style="font-size: 25px;" aria-hidden="true">&times;</span>
                                     </button>
@@ -186,7 +186,7 @@ if ($m == $sem) {
                         <div class="modal-content">
                             <div class="modal-header">
                                 <h5 class="modal-title" id="exampleModalLabel">
-                                    Set IA-I Marks
+                                    Set Class Test-I Marks
                                 </h5>
                                 <button type="button" class="close btn" data-dismiss="modal" aria-label="Close">
                                     <span style="font-size: 25px;" aria-hidden="true">&times;</span>
@@ -648,7 +648,7 @@ if ($m == $sem) {
                         <div class="modal-dialog">
                             <div class="modal-content">
                                 <div class="modal-header">
-                                    <h5 class="modal-title" id="exampleModalLabel">Import IA2</h5>
+                                    <h5 class="modal-title" id="exampleModalLabel">Import Class Test2</h5>
                                     <button type="button" class="close btn" data-dismiss="modal" aria-label="Close">
                                         <span style="font-size: 25px;" aria-hidden="true">&times;</span>
                                     </button>
@@ -687,7 +687,7 @@ if ($m == $sem) {
                         <div class="modal-content">
                             <div class="modal-header">
                                 <h5 class="modal-title" id="exampleModalLabel">
-                                    Set IA-II Marks
+                                    Set Class Test-II Marks
                                 </h5>
                                 <button type="button" class="close btn" data-dismiss="modal" aria-label="Close">
                                     <span style="font-size: 25px;" aria-hidden="true">&times;</span>
@@ -1113,7 +1113,7 @@ if ($m == $sem) {
                         <div class="modal-dialog">
                             <div class="modal-content">
                                 <div class="modal-header">
-                                    <h5 class="modal-title" id="exampleModalLabel">Import IA3</h5>
+                                    <h5 class="modal-title" id="exampleModalLabel">Import Class Test3</h5>
                                     <button type="button" class="close btn" data-dismiss="modal" aria-label="Close">
                                         <span style="font-size: 25px;" aria-hidden="true">&times;</span>
                                     </button>
@@ -1152,7 +1152,7 @@ if ($m == $sem) {
                         <div class="modal-content">
                             <div class="modal-header">
                                 <h5 class="modal-title" id="exampleModalLabel">
-                                    Set IA-III Marks
+                                    Set Class Test-III Marks
                                 </h5>
                                 <button type="button" class="close btn" data-dismiss="modal" aria-label="Close">
                                     <span style="font-size: 25px;" aria-hidden="true">&times;</span>
@@ -1585,9 +1585,9 @@ if ($m == $sem) {
                         <th></th>
                         <th scope="col" class="sticky-col first-col">USN</th>
                         <th scope="col">Name</th>
-                        <th scope="col">IA I</th>
-                        <th scope="col">IA II</th>
-                        <th scope="col">IA III </th>
+                        <th scope="col">Class TestI</th>
+                        <th scope="col">Class TestII</th>
+                        <th scope="col">Class TestIII </th>
                         <th scope="col">Average</th>
                     </tr>
                 </thead>

@@ -42,7 +42,7 @@ $r_no = mysqli_fetch_assoc($result);
             <a class="nav-link active" id="ia1-tab" data-bs-target="#ia1" data-toggle="tab" href="#ia1" role="tab" aria-controls="ia1" aria-selected="true">Lab Exp</a>
         </li>
         <li class="nav-item" role="presentation">
-            <a class="nav-link" id="ia2-tab" data-bs-target="#ia2" data-toggle="tab" href="#ia2" role="tab" aria-controls="ia2" aria-selected="false">IA</a>
+            <a class="nav-link" id="ia2-tab" data-bs-target="#ia2" data-toggle="tab" href="#ia2" role="tab" aria-controls="ia2" aria-selected="false">Class Test</a>
         </li>
         <li class="nav-item" role="presentation">
             <a class="nav-link" id="ia3-tab" data-bs-target="#ia3" data-toggle="tab" href="#ia3" role="tab" aria-controls="ia3" aria-selected="false">Total</a>
@@ -294,7 +294,7 @@ $r_no = mysqli_fetch_assoc($result);
         <div class="modal-dialog" role="document">
             <div class="modal-content">
                 <div class="modal-header">
-                    <h5 class="modal-title" id="exampleModalLabel"> Set no of Ia's </h5>
+                    <h5 class="modal-title" id="exampleModalLabel"> Set no of Class Test's </h5>
                     <button type="button" class="close btn" data-dismiss="modal" aria-label="Close">
                         <span style="font-size: 25px;" aria-hidden="true">×</span>
                     </button>
@@ -303,7 +303,7 @@ $r_no = mysqli_fetch_assoc($result);
                     <form action="att_avgc.php" method="post">
                         <div class="row">
                             <div class="col">
-                                <label for="no-ia"> Set no of Ia's </label>
+                                <label for="no-ia"> Set no of Class Test's </label>
                                 <input id="no-ia" class="form-control" type="number" name="no-ia">
                             </div>
                         </div>
@@ -324,7 +324,7 @@ $r_no = mysqli_fetch_assoc($result);
             <div class="col-8"></div>
             <div class="col">
                 <form style="display: flex;" action='up_ia.php' method="post">
-                    <label for="InternalSelect" class="m-2 col-form-label">No of Internals</label>
+                    <label for="InternalSelect" class="m-2 col-form-label">No of Class Test's</label>
                     <div class="m-2 col-sm-2 primary">
                         <select class="form-select" id="InternalSelect" name="total_ia">
                             <option value="<?php echo $r_no['total_ia'] ?>"><?php echo $r_no['total_ia'] ?></option>
@@ -365,10 +365,10 @@ $r_no = mysqli_fetch_assoc($result);
                         <th></th>
                         <th scope="col">USN</th>
                         <th scope="col">Name</th>
-                        <th scope="col" class="exptest1">Exp No. IA-1</th>
-                        <th scope="col" class="exptest1">Marks IA-1</th>
-                        <th scope="col" class="exptest2">Exp No. IA-2</th>
-                        <th scope="col" class="exptest2">Marks IA-2</th>
+                        <th scope="col" class="exptest1">Exp No. Class Test-1</th>
+                        <th scope="col" class="exptest1">Marks Class Test-1</th>
+                        <th scope="col" class="exptest2">Exp No. Class Test-2</th>
+                        <th scope="col" class="exptest2">Marks Class Test-2</th>
                         <th scope="col">Total</th>
                         <th scope="col">Average</th>
                     </tr>
@@ -443,7 +443,7 @@ $r_no = mysqli_fetch_assoc($result);
                         <th scope="col">USN</th>
                         <th scope="col">Name</th>
                         <!-- <th scope="col">Exp No.</th> -->
-                        <th scope="col">IA Marks</th>
+                        <th scope="col">Class Test Marks</th>
                         <th scope="col">Lab Exp Marks</th>
                         <th scope="col">Total</th>
 
@@ -513,9 +513,9 @@ $r_no = mysqli_fetch_assoc($result);
                         <th></th>
                         <th scope="col">USN</th>
                         <th scope="col">Name</th>
-                        <th scope="col">IA I</th>
-                        <th scope="col">IA II</th>
-                        <th scope="col">IA III </th>
+                        <th scope="col">Class TestI</th>
+                        <th scope="col">Class TestII</th>
+                        <th scope="col">Class TestIII </th>
                         <th scope="col">Average</th>
                     </tr>
                 </thead>
