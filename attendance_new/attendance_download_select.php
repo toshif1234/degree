@@ -38,9 +38,9 @@ $_SESSION['lab'] = 0;
             $q = 'select * from dept_pso';
             $result = $link->query($q);
             ?>
-            <label for="branch">Branch</label>
+            <label for="branch">Course</label>
             <select name="branch" id="branch" class="form-control">
-                <option selected disabled>Select Branch</option>
+                <option selected disabled>Select Course</option>
                 <?php foreach ($result as $r) { ?>
                     <option value="<?php echo $r['dept_name'] ?>"><?php echo $r['dept_name'] ?></option>
                 <?php } ?>

@@ -69,9 +69,9 @@ $_SESSION["temp"] = 0; ?>
             </div>
             <div class="col-md-4 col-lg-4">
                 <div class="form-group">
-                    <label for="sub">Branch</label>
+                    <label for="sub">Course</label>
                     <select name="branch" class="form-control" required>
-                        <option selected value="" disabled> Branch </option>
+                        <option selected value="" disabled> Course </option>
 
                         <?php
 

@@ -14,7 +14,7 @@ $result = $link->query($q);
             
                 <div class="col col-12 col-md-6 col-lg-6 mt-2">
                     <select name="dept" class="form-control" id="dept">
-                        <option selected disabled>Select Department</option>
+                        <option selected disabled>Select Course</option>
                         <?php
                             foreach($result as $r){
                         ?>

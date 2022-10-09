@@ -14,9 +14,9 @@ require_once "../config.php";
         <div class="row">
             
             <div class="col-md-4 mt-4">
-                <label for="branch" class="">Select Department:</label>
+                <label for="branch" class="">Select Course:</label>
                 <select name="branch" id="branch" class="form-control">
-                    <option selected disabled>Select Department</option>
+                    <option selected disabled>Select Course</option>
                     <?php
                         foreach($res1 as $r){
                     ?>

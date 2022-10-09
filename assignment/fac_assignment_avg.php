@@ -82,9 +82,9 @@ $faculty_name = $_SESSION["username"];
 
             <div class="col-md-3">
                 <div class="form-group">
-                    <label for="sub">Branch</label>
+                    <label for="sub">Course</label>
                     <select name="branch" class="form-control">
-                        <option selected disabled>Select Branch </option>
+                        <option selected disabled>Select Course </option>
 
                         <?php
 

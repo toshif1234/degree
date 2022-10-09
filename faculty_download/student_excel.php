@@ -39,7 +39,7 @@ $con = $link;
 								</div>
 								<div class=" form-group col-md-2">
 									<select class="form-control" name="branch" id="branch" aria-label="Default select example">
-										<option value="selected">Branch</option>
+										<option value="selected">Course</option>
 										<?php foreach ($result2 as $r2) { ?>
 											<option class="form-control" value="<?php echo $r2["branch"] ?>"><?php echo $r2["branch"] ?></option>
 											<!-- <option class="form-control" value="2019">2019</option> -->

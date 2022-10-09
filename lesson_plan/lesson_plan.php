@@ -177,9 +177,9 @@ if (isset($_SESSION["check_error"]) && $_SESSION["check_error"] == 1) {
                     </div>
                     <div class="col col-3 col-mg-3 col-lg-3">
 
-                        <label for="sub">Branch</label>
+                        <label for="sub">Course</label>
                         <select name="branch" class="form-control">
-                            <option selected disabled>Select Branch </option>
+                            <option selected disabled>Select Course </option>
 
                             <?php
                             $p1 = "select distinct branch from students";
@@ -331,9 +331,9 @@ if (isset($_SESSION["check_error"]) && $_SESSION["check_error"] == 1) {
                     </div>
                     <div class="col col-3 col-mg-3 col-lg-3">
 
-                        <label for="sub">Branch</label>
+                        <label for="sub">Course</label>
                         <select name="branch" class="form-control">
-                            <option selected disabled>Select Branch </option>
+                            <option selected disabled>Select Course </option>
 
                             <?php
                             $p1 = "select distinct branch from students";
@@ -436,9 +436,9 @@ if (isset($_SESSION["check_error"]) && $_SESSION["check_error"] == 1) {
                     </div>
                     <div class="col col-3 col-mg-3 col-lg-3">
 
-                        <label for="sub">Branch</label>
+                        <label for="sub">Course</label>
                         <select name="branch" class="form-control">
-                            <option selected disabled>Select Branch </option>
+                            <option selected disabled>Select Course </option>
 
                             <?php
                             $p1 = "select distinct branch from students";
@@ -544,9 +544,9 @@ if (isset($_SESSION["check_error"]) && $_SESSION["check_error"] == 1) {
                     </div>
                     <div class="col col-3 col-mg-3 col-lg-3">
 
-                        <label for="sub">Branch</label>
+                        <label for="sub">Course</label>
                         <select name="branch" class="form-control">
-                            <option selected disabled>Select Branch </option>
+                            <option selected disabled>Select Course </option>
 
                             <?php
                             $p1 = "select distinct branch from students";

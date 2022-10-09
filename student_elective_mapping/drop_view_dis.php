@@ -28,7 +28,7 @@ $_SESSION["view_flag"] = 0;
             <div class="row">
                 <div class="col-md-3 mb-4">
                     <select class="form-control" id="exampleFormControlSelect1" name="dept">
-                        <option selected disabled>Department</option>
+                        <option selected disabled>Course</option>
                         <?php foreach ($result1 as $r) { ?>
                             <option value="<?php echo $r['dept_name'] ?>"><?php echo $r['dept_name'] ?></option>
                         <?php } ?>

@@ -91,9 +91,9 @@ if (isset($_SESSION["check_error"]) && $_SESSION["check_error"] == 1) {
                 </select>
             </div>
             <div class="col">
-                <label for="sub">Branch</label>
+                <label for="sub">Course</label>
                 <select name="branch" class="form-control">
-                    <option selected disabled>Select Branch </option>
+                    <option selected disabled>Select Course </option>
 
                     <?php
 

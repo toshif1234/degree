@@ -25,10 +25,10 @@ $result1=$link->query($q1);
         <div class="row">
             <div class="col-sm-12 col-md-5">
                 <div class="form-group ">
-                    <label for="Branch">Branch:</label>
+                    <label for="Branch">Course:</label>
                     <select name="branch" id="" class="form-control">
 
-                        <option id="Branch" selected>Branch</option>
+                        <option id="Branch" selected>Course</option>
                         <?php
                                 foreach($result as $r)
                                 {

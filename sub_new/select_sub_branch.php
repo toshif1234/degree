@@ -17,7 +17,7 @@ $q1 = "select distinct branch from subjects_new";
         <div class="row">
             <div class="col-md-4">
                 <select name="branch" class="form-control">
-                    <option selected disabled>Select Branch </option>
+                    <option selected disabled>Select Course </option>
                     <?php
                 foreach($result as $r){                
                     echo "<option value=\"" . $r["branch"] . "\"> " . $r["branch"] . "</option>";

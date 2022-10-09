@@ -99,9 +99,9 @@ foreach ($result_year as $r2) {
             </div>
             <div class="col-md-4 col-lg-4">
                 <div class="form-group">
-                    <label for="sub">Branch</label>
+                    <label for="sub">Course</label>
                     <select name="branch" class="form-control">
-                        <option selected disabled>Select Branch </option>
+                        <option selected disabled>Select Course </option>
 
                         <?php
 

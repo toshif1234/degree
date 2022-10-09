@@ -17,7 +17,7 @@ $result = $link->query($q1);
     <tr>
       <th scope="col">Faculty ID</th>
       <th scope="col">CLASS COORDINATOR</th>
-      <th scope="col">Branch</th>
+      <th scope="col">Course</th>
       <th scope="col">SEM-SEC</th>
       <th scope="col"></th>
     </tr>
